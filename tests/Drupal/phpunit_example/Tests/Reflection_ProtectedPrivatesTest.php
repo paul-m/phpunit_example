@@ -2,7 +2,7 @@
 
 /**
  * @file
- * Contains Drupal\phpunit_example\Tests\ProtectedPrivatesTest
+ * Contains Drupal\phpunit_example\Tests\Reflection_ProtectedPrivatesTest
  */
 
 namespace Drupal\phpunit_example\Tests;
@@ -44,7 +44,7 @@ use Drupal\phpunit_example\Tests\Subclasses\ProtectedPrivatesSubclass;
  * @ingroup phpunit_example
  * @group phpunit_example
  */
-class ProtectedPrivatesTest extends UnitTestCase {
+class Reflection_ProtectedPrivatesTest extends UnitTestCase {
 
   public static function getInfo() {
     return array(

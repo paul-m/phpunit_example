@@ -2,7 +2,7 @@
 
 /**
  * @file
- * Contains Drupal\phpunit_example\Tests\AddClassTest
+ * Contains Drupal\phpunit_example\Tests\ProviderException_AddClassTest
  */
 
 namespace Drupal\phpunit_example\Tests;
@@ -36,7 +36,7 @@ use Drupal\phpunit_example\AddClass;
  * @ingroup phpunit_example
  * @group phpunit_example
  */
-class AddClassTest extends UnitTestCase {
+class ProviderException_AddClassTest extends UnitTestCase {
 
   public static function getInfo() {
     return array(
