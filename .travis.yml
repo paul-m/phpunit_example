@@ -3,7 +3,6 @@ language:
 
 php:
   - 5.3
-  - 5.4
 
 # set up composer
 before_script:

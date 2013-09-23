@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/paul-m/phpunit_example.png?branch=master)](https://travis-ci.org/paul-m/phpunit_example)
+
 PHPUnit Example
 ===============
 
