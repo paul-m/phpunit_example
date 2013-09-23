@@ -46,7 +46,6 @@ class AddClassTest extends UnitTestCase {
     );
   }
 
-
   /**
    * Very simple test of AddClass::add().
    *
