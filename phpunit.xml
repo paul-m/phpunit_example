@@ -1,0 +1,16 @@
+<phpunit 
+  bootstrap="vendor/autoload.php"
+  colors="true"
+  verbose="true"
+>
+  <testsuites>
+    <testsuite name="PHPUnit Example">
+      <directory>tests</directory>
+    </testsuite>
+  </testsuites>
+  <filter>
+    <whitelist>
+      <directory>lib</directory>
+    </whitelist>
+  </filter>
+</phpunit>
